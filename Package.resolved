@@ -1,0 +1,106 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "async-kit",
+        "repositoryURL": "https://github.com/vapor/async-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "8e2cad80dd9f62f0349a2a78ab8c81fb456f4d4a",
+          "version": "1.1.1"
+        }
+      },
+      {
+        "package": "postgres-kit",
+        "repositoryURL": "https://github.com/vapor/postgres-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "fca27ff90326e3612ed0197598a7ce467bfedfbd",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "postgres-nio",
+        "repositoryURL": "https://github.com/vapor/postgres-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "25aa31fdd55ea119edee270ce4bd7bd4bd59fdf7",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "sql-kit",
+        "repositoryURL": "https://github.com/vapor/sql-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "8b82edd5d918068f204e3ac4206d5d15f6740395",
+          "version": "3.5.0"
+        }
+      },
+      {
+        "package": "swift-aws-lambda-runtime",
+        "repositoryURL": "https://github.com/swift-server/swift-aws-lambda-runtime.git",
+        "state": {
+          "branch": null,
+          "revision": "2bac89639fffd7b1197ab597473a4d10c459a230",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "swift-backtrace",
+        "repositoryURL": "https://github.com/swift-server/swift-backtrace.git",
+        "state": {
+          "branch": null,
+          "revision": "f2fd8c4845a123419c348e0bc4b3839c414077d5",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "swift-crypto",
+        "repositoryURL": "https://github.com/apple/swift-crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "9b9d1868601a199334da5d14f4ab2d37d4f8d0c5",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "74d7b91ceebc85daf387ebb206003f78813f71aa",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "swift-metrics",
+        "repositoryURL": "https://github.com/apple/swift-metrics.git",
+        "state": {
+          "branch": null,
+          "revision": "708b960b4605abb20bc55d65abf6bad607252200",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "120acb15c39aa3217e9888e515de160378fbcc1e",
+          "version": "2.18.0"
+        }
+      },
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
+        "state": {
+          "branch": null,
+          "revision": "f0b118d9af6c4e78bc4f3f4fbb464020172b0bf4",
+          "version": "2.7.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
